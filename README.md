@@ -6,6 +6,9 @@ The Scientific Calculator lets you perform additional operations like inverse, c
 ## Requirements
 Python v3 and Tkinter
 
+## To run
+python calculator.py
+
 ## Screenshots
 1. Standard Calculator
 
